@@ -1,6 +1,6 @@
 # Rubik's Cube Solver 
 
-This project is a fully functional Rubik’s Cube solver written in Python using the beginner’s method. It takes a scrambled cube state as input - either manually or via webcam—and outputs a step-by-step sequence of moves to solve it.
+This project is a fully functional Rubik’s Cube solver written in Python using the beginner’s method. It takes a scrambled cube state as input - either manually or via webcam, and outputs a step-by-step sequence of moves to solve it.
 
 ## Features
 
